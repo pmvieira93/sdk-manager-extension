@@ -5,7 +5,7 @@ Also, allow to know which version that you are using in your current bash sessio
 
 ## Purpose
 
-I'm passion as Software Developer and I really like to work with Linux/Unix operations systems. 
+I'm an enthusiastic Software Developer and I really like to work with Linux/Unix operations systems. 
 Since that I discovery the [SDK Package Manager](https://sdkman.io/) I never left that tool to Manager my packages such as `Java`, `Maven`, `Quarkus`, `Spring` and etc.
 As I have been worked in different projects at the same time with different stack technologies, I felt that was missing something to help me to discovery which versions of some packages that I had installed.
 Then, I created that simple script that help me on my daily work and now I start sharing with all of you.
